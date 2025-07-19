@@ -4,3 +4,4 @@ opencv-python
 ultralytics
 streamlit
 numpy
+opencv-python-headless
